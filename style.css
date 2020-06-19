@@ -9,3 +9,13 @@ Version: 1.0
 */
 
 /* Parent stylesheet should be loaded from functions.php not using @import */
+
+.dgwt-wcas-no-submit .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input { 
+	border-radius:9999px;
+}
+
+.page-header { 
+	position:absolute; 
+	top: -99999px;
+	left: -99999px;
+}
